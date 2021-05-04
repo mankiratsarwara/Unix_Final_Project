@@ -10,7 +10,7 @@ then
 	echo Directory has been changed. Updating jekyll build.
 	cd hip-hop
 	bundle exec jekyll build
-	cp -a _site/. /var/www/html/.
+	cp -a _site/. /var/www/html/
 else
 	echo Directory is unchanged.
 fi
