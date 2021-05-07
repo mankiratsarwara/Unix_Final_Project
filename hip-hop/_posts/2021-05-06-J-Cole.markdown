@@ -1,0 +1,7 @@
+---
+layout: post
+title: "J. Cole"
+hyperlink: /J-Cole/
+---
+
+This will be a blog post about J. Cole.

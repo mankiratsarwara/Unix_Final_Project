@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Pop Smoke"
+hyperlink: /Pop-Smoke/
+---
+
+This will be a blog post about Pop Smoke.
