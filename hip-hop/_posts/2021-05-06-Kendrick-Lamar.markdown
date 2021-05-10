@@ -74,6 +74,8 @@ DAMN:
 F*ckin' Problems W/ A$AP Rocky, Drake & Others:
 - BET Hip-Hop Awards Best Collaboration(2013).
 
+& many more!
+
                     Our Ratings/Thoughts on the Artist.
 
 Mankirat:
