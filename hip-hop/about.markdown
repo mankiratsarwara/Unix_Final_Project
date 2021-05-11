@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This a is a mini-blog that talk about certain artists in the hip-hop scene. It's comprised of blog posts with the following artists: J. Cole, Kendrick Lamar, Pop Smoke, Jay-Z and Lil Baby. It provides information on them and we also provide our thoughts. There's also the upcoming page that gives a list of the upcoming hip-hop releases for May 2021. Finally, there's the sources page that gives a list of webpages we gathered the information from for each blog post.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Collaborators: 
+- Christian:
+github: https://github.com/christiankfoury
+- Mankirat: 
+github: https://github.com/mankiratsarwara
