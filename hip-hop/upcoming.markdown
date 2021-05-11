@@ -1,14 +1,10 @@
 ---
 layout: page
-title: Upcoming
+title: Upcoming Hip-Hop Releases (May 2021)
 permalink: /upcoming/
 ---
 
 <img src="https://thefader-res.cloudinary.com/private_images/w_760,c_limit,f_auto,q_auto:best/JF_OFFSEASON_0054_050321_EDIT_001_EXPLICIT_R_kksp7v/i-the-off-season-i-cover-art.jpg" alt="Jay-Z" style="display: block; margin-left: auto; margin-right: auto; width: 50%;"/>
-
-<h1 align="center">Upcoming Hip-Hop Releases (May 2021)</h1>
-
-Below are the confirmed upcoming releases for the month of May 2021.
 
 May 03, 2021:
 - Joey Trap, Professional. -> Album.
