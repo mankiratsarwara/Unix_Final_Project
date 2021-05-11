@@ -4,8 +4,8 @@ title: Upcoming Hip-Hop Releases (May 2021)
 permalink: /upcoming/
 ---
 
-<figure>
-<img src="https://thefader-res.cloudinary.com/private_images/w_760,c_limit,f_auto,q_auto:best/JF_OFFSEASON_0054_050321_EDIT_001_EXPLICIT_R_kksp7v/i-the-off-season-i-cover-art.jpg" alt="Jay-Z" style="display: block; margin-left: auto; margin-right: auto; width: 50%;"/>
+<figure style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
+<img src="https://thefader-res.cloudinary.com/private_images/w_760,c_limit,f_auto,q_auto:best/JF_OFFSEASON_0054_050321_EDIT_001_EXPLICIT_R_kksp7v/i-the-off-season-i-cover-art.jpg" alt="Jay-Z">
 <figcaption>The Off-Season, releasing May 14, 2021.</figcaption>
 </figure>
 
