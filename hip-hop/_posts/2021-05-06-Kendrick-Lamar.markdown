@@ -4,13 +4,13 @@ title: "Kendrick Lamar"
 hyperlink: /Kendrick-Lamar/
 ---
 
-                            ![Kendrick Lamar](https://cdn.vox-cdn.com/thumbor/Mu5ES3RVPUjSK1MNjkC6xP5832o=/0x0:1000x563/1200x800/filters:focal(384x87:544x247)/cdn.vox-cdn.com/uploads/chorus_image/image/69199485/kendrick_lamar_fyf.0.jpg)
+<img src="https://cdn.vox-cdn.com/thumbor/Mu5ES3RVPUjSK1MNjkC6xP5832o=/0x0:1000x563/1200x800/filters:focal(384x87:544x247)/cdn.vox-cdn.com/uploads/chorus_image/image/69199485/kendrick_lamar_fyf.0.jpg" alt="Kendrick Lamar" style="float: left; margin-right: 10px;">
 
-                            Mini-Biography
+<h1 align="center">Mini-Biography</h1>
 
 Kendrick Lamar Duckworth was born on June 17, 1987 in Compton, California. He started his musical career during his early teenage years under the rap names of Kung Fu Kenny & K.Dot. His rise to fame came with the releases of his mixtape, Overly Dedicated & his independently release album, Section .80. Since 2012, Kendrick Lamar has been viewed as on of the best lyricists and one of the most influential artists of his generation. 
 
-                                Discography
+<h1 align="center">Discography</h1>
 
 Mixtapes:
 
@@ -52,7 +52,7 @@ DAMN (April 14, 2017):
 - Certifications: RIAA Certified 3x Platinum.
 - Biggest Songs: Love, Humble, DNA.
 
-                                Accolades
+<h1 align="center">Accolades</h1>
 
 Kendrick Lamar has 160+ awards but here's just some awards from the biggest Awards shows.
 
@@ -78,7 +78,7 @@ F*ckin' Problems W/ A$AP Rocky, Drake & Others:
 
 & many more!
 
-                    Our Ratings/Thoughts on the Artist.
+<h1 align="center">Our Thoughts on the artist.</h1>
 
 Mankirat: Kendrick Lamar is undoubtedly one of the greatest rappers we have ever seen. Every single album that I have listened to from his discography has been nothing short of a masterpiece (with the exception of Section .80). His lyrical ability is unmatched by any other artist. His albums often incorporate jazz and blues samples that really differ with the kind of beats we hear today. His albums seem more like stories and movies the way the tracks flow. I truly believe that if he can top "To Pimp a Butterfly", it will cement his spot at the top.
 
