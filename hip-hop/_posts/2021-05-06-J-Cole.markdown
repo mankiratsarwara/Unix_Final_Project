@@ -3,7 +3,7 @@ layout: post
 title: "J. Cole"
 hyperlink: /J-Cole/
 ---
-![J. Cole](https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTQ3Mzg3MjY0ODg2OTA4NTk5/j_cole_photo_by_isaac_brekken_wireimage_getty_503069628.jpg)
+<img src="https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTQ3Mzg3MjY0ODg2OTA4NTk5/j_cole_photo_by_isaac_brekken_wireimage_getty_503069628.jpg" alt="J. Cole" align="center"></img>
 
 <h1 align="center">Mini-Biography</h1>
 
@@ -71,7 +71,7 @@ A lot w/ 21 Savage:
 
 & many more!
 
-<h1 align="Our Thoughts on the artist.">Discography</h1>
+<h1 align="center">Our Thoughts on the artist.</h1>
 
 Mankirat: J. Cole is my favourite artist. I first heard of him when I stumbled across his hit album 2014 Forest Hills Drive in high school. This was the time when I was getting into hip-hop. His beats and lyrical ability really set himself apart from the competition. I mostly liked how relatable his bars are and the content of his music which is mostly not materialistic compared to the current rap scene.
 
