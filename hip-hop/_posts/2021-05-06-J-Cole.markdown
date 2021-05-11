@@ -5,12 +5,11 @@ hyperlink: /J-Cole/
 ---
 ![J. Cole](https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTQ3Mzg3MjY0ODg2OTA4NTk5/j_cole_photo_by_isaac_brekken_wireimage_getty_503069628.jpg)
 
-                                Mini-Biography
+<h1 align="center">Mini-Biography</h1>
 
 Jermaine Lamarr Cole was born on January 28th, 1985 to a white German mother & black American father on a U.S. military base in Frankfurt, Germany. At a young age, he was always into poetry and making music. His rise to fame came with the release of his mixtape, Friday Night Lights which is considered one of the best Hip-Hop mixtapes of all-time. He is one of the biggest rap artists/producers in the conscious rap scene during the last decade.
 
-                                Discography
-
+<h1 align="center">Discography</h1>
 Mixtapes:
 
 The Come Up (May 4, 2007):
@@ -47,7 +46,7 @@ KOD (April 20, 2018):
 - Certifications: RIAA Certified Platinum.
 - Biggest Songs: KOD, Kevin's Heart, 1985.
 
-                                Accolades
+<h1 align="center">Accolades</h1>
 
 Himself: 
 - BET Hip-Hop Awards Best Live Performer (2015).
@@ -72,7 +71,7 @@ A lot w/ 21 Savage:
 
 & many more!
 
-                        Our Ratings/Thoughts on the Artist.
+<h1 align="Our Thoughts on the artist.">Discography</h1>
 
 Mankirat: J. Cole is my favourite artist. I first heard of him when I stumbled across his hit album 2014 Forest Hills Drive in high school. This was the time when I was getting into hip-hop. His beats and lyrical ability really set himself apart from the competition. I mostly liked how relatable his bars are and the content of his music which is mostly not materialistic compared to the current rap scene.
 
