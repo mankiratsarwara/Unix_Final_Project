@@ -1,0 +1,95 @@
+* {
+    font-family: 'Quicksand', sans-serif;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    display: flex;
+}
+
+.container {
+    padding: 0 16px;
+}
+
+.container::after, .row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.title {
+    color: grey;
+}
+
+.button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+}
+
+.button:hover {
+    background-color: #555;
+}
+
+.top-left {
+    top: 8px;
+    left: 16px;
+    font-weight: bold;
+    color: red;
+}
+
+h2 {
+    color: blue;
+}
+
+/* COPY */
+
+#home {
+    background-color: blue;
+    color: white;
+}
+
+#top-players {
+    background-color: red;
+    color: white;
+}
+
+#about {
+    background-color: white;
+    color: black;
+}
+
+#navigation {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: #f1f1f1;
+}
+
+li a {
+  display: block;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+li a:hover {
+    background-color: gold;
+    color: white;
+}
+
+.third {
+    -webkit-transition: all 150ms ease-in-out;
+    transition: all 250ms ease-in-out;
+}
+.third:hover {
+    box-shadow: 0 0 40px 40px gold inset, 0 0 10px 4px black;
+    /* box-shadow: 0 0 10px 0 gold inset, 0 0 10px 4px black; */
+}
+
+/* COPY */

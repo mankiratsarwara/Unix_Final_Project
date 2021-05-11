@@ -1,0 +1,185 @@
+* {
+    font-family: 'Quicksand', sans-serif;
+}
+
+body.home {
+    background: url(Images/basketball-izuddin-helmi-adnan.jpg) no-repeat fixed center;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#navigation {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: #f1f1f1;
+}
+
+li a {
+  display: block;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+#home {
+    background-color: blue;
+    color: white;
+}
+
+#top-players {
+    background-color: red;
+    color: white;
+}
+
+#sources {
+    background-color: white;
+    color: black;
+}
+
+li a:hover {
+    background-color: gold;
+    color: white;
+}
+
+#white-box {
+    background: rgba(255,255,255,0.9);
+    box-shadow: 20px 0px 50px 20px rgb(28 77 97), -20px 0px 50px 20px rgb(196 208 0);
+    border-radius: 5px;
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    display: inline-block;
+}
+
+h1.title-white-box {
+    text-align: center;
+    font-size: 60px;
+    text-shadow: 15px 20px 20px black;
+    margin-bottom: 10%;
+}
+
+#information {
+    /* padding-top: 10%; */
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size: 20px;
+    text-align: center;
+}
+
+#text-box {
+    border: 2px solid red;
+    /* margin-top: 15%; */
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.asterisk {
+    font-size: 50px;
+    font-weight: 100;
+    text-align: center;
+    text-shadow: 0px 20px 20px #0024d2;
+}
+
+
+.third {
+    -webkit-transition: all 150ms ease-in-out;
+    transition: all 250ms ease-in-out;
+}
+.third:hover {
+    box-shadow: 0 0 40px 40px gold inset, 0 0 10px 4px black;
+    /* box-shadow: 0 0 10px 0 gold inset, 0 0 10px 4px black; */
+}
+
+/* For top-player page */
+
+
+.button:hover {
+  background-color: #555;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    display: flex;
+}
+
+.container {
+    padding: 0 16px;
+}
+
+.container::after, .row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.row {
+	background-color: rgba(255, 255, 255, 0.863);
+}
+
+.position {
+    color: grey;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+}
+
+.button:hover {
+    background-color: #555;
+}
+
+.top-left {
+    top: 8px;
+    left: 16px;
+    font-weight: bold;
+    color: red;
+}
+
+h2 {
+    color: blue;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+body.top {
+  	background: url(Images/basketball-izuddin-helmi-adnan.jpg) no-repeat fixed center;
+	  background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+p {
+	font-size: 20px;
+}
+
+img {
+	height:400px;
+	align-self: flex-end;
+}
+
+h1.title {
+	color: white
+}
