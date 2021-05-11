@@ -4,6 +4,8 @@ title: "Kendrick Lamar"
 hyperlink: /Kendrick-Lamar/
 ---
 
+                            ![Kendrick Lamar](https://cdn.vox-cdn.com/thumbor/Mu5ES3RVPUjSK1MNjkC6xP5832o=/0x0:1000x563/1200x800/filters:focal(384x87:544x247)/cdn.vox-cdn.com/uploads/chorus_image/image/69199485/kendrick_lamar_fyf.0.jpg "Kendrick Lamar")
+
                             Mini-Biography
 
 Kendrick Lamar Duckworth was born on June 17, 1987 in Compton, California. He started his musical career during his early teenage years under the rap names of Kung Fu Kenny & K.Dot. His rise to fame came with the releases of his mixtape, Overly Dedicated & his independently release album, Section .80. Since 2012, Kendrick Lamar has been viewed as on of the best lyricists and one of the most influential artists of his generation. 
@@ -78,6 +80,6 @@ F*ckin' Problems W/ A$AP Rocky, Drake & Others:
 
                     Our Ratings/Thoughts on the Artist.
 
-Mankirat:
+Mankirat: Kendrick Lamar is undoubtedly one of the greatest rappers we have ever seen. Every single album that I have listened to from his discography has been nothing short of a masterpiece (with the exception of Section .80). His lyrical ability is unmatched by any other artist. His albums often incorporate jazz and blues samples that really differ with the kind of beats we hear today. His albums seem more like stories and movies the way the tracks flow. I truly believe that if he can top "To Pimp a Butterfly", it will cement his spot at the top.
 
 Christian: K. Dot is my second favorite artist of all time for many reasons. For one, Kendrick Lamar one of the most, if not, the most, verstaile artists. He can incorporate any type of beat to his songs. As an example, in "To Pimp a Buttefly", he sampled jazz beats for the whole album. Not only beats, but Kendrick Lamar might be the greatest at changing the tone and rhythm while rapping. I feel like he can use any time of beat, and he would always make it sound good. Probably his most emotional, "U", Kendrick raps about him hating himself and about his depression. In the second half of the song, Kendrick raps in pain/crying. The songs being based on a true story, Kendrick locks himself in a hotel room and screams into the void of the room. Reasons why Kendrick has hit such a low is because he went through many things. Growing up in Compton, he witnessed the worse you can imagine. He was surronded by drug addicts, by gangs, shootings, murders, and he grew up poor. Even worse, Kendrick witnessed death at the age of 5 years old, and his second at 8. The artist even had his friends die when he was young. Living in Compton, he has lived the worse. Now, after his breakout album "good kid, m.A.A.d city", Lamar has made it. Now living outside out of worse, he feels that he left his "family" back at Compton, having survivor's guilt and imposter syndrome. The deepest part of the song would probably be when he says, "Loving you is complicated". Another reason why I love this artist is probably because of how he educates one, about black history, and the life of a black person in America. The different subjects he speaks on, as well on how perfect his songs sound are the reasons why I love listening to him.
