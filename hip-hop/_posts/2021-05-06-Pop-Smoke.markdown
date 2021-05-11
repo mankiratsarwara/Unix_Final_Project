@@ -4,7 +4,7 @@ title: "Pop Smoke"
 hyperlink: /Pop-Smoke/
 ---
 
-<img src="https://www.rap-up.com/app/uploads/2020/02/pop-smoke-pa.jpg" alt="Pop Smoke" style="float: left; margin-right: 10px;">
+<img src="https://www.rap-up.com/app/uploads/2020/02/pop-smoke-pa.jpg" alt="Pop Smoke" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
 
 
 <h1 align="center">Mini-Biography</h1>

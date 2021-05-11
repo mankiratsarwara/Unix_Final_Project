@@ -4,7 +4,7 @@ title: "Kendrick Lamar"
 hyperlink: /Kendrick-Lamar/
 ---
 
-<img src="https://cdn.vox-cdn.com/thumbor/Mu5ES3RVPUjSK1MNjkC6xP5832o=/0x0:1000x563/1200x800/filters:focal(384x87:544x247)/cdn.vox-cdn.com/uploads/chorus_image/image/69199485/kendrick_lamar_fyf.0.jpg" alt="Kendrick Lamar" style="float: left; margin-right: 10px;">
+<img src="https://cdn.vox-cdn.com/thumbor/Mu5ES3RVPUjSK1MNjkC6xP5832o=/0x0:1000x563/1200x800/filters:focal(384x87:544x247)/cdn.vox-cdn.com/uploads/chorus_image/image/69199485/kendrick_lamar_fyf.0.jpg" alt="Kendrick Lamar" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
 
 <h1 align="center">Mini-Biography</h1>
 
