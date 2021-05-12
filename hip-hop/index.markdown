@@ -5,9 +5,9 @@
 layout: default
 ---
 
-<a href="http://192.99.43.182/about.markdown">About</a>
-<a href="http://192.99.43.182/sources.markdown">Sources</a>
-<a href="http://192.99.43.182/upcoming.markdown">Upcoming Releases May 2021</a>
+<a href="http://192.99.43.182/about/">About</a>
+<a href="http://192.99.43.182/sources/">Sources</a>
+<a href="http://192.99.43.182/upcoming/">Upcoming Releases May 2021</a>
 
 <a href="http://192.99.43.182/2021/05/06/J-Cole.html">J. Cole</a><br>
 <a href="http://192.99.43.182/2021/05/06/Kendrick-Lamar.html">Kendrick Lamar</a><br>
