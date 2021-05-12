@@ -9,8 +9,13 @@ layout: default
 <a href="http://192.99.43.182/sources/">Sources</a>
 <a href="http://192.99.43.182/upcoming/">Upcoming Releases May 2021</a>
 
+
 <a href="http://192.99.43.182/2021/05/06/J-Cole.html">J. Cole</a><br>
 <a href="http://192.99.43.182/2021/05/06/Kendrick-Lamar.html">Kendrick Lamar</a><br>
 <a href="http://192.99.43.182/2021/05/06/Pop-Smoke.html">Pop Smoke</a><br>
 <a href="http://192.99.43.182/2021/05/07/Jay-Z.html">Jay-Z</a><br>
-<a href="http://192.99.43.182/2021/05/07/Lil-Baby.html">Lil Baby</a>
+<a href="http://192.99.43.182/2021/05/07/Lil-Baby.html">Lil Baby</a><br>
+
+
+<a href="http://192.99.43.182/FightCentral.html">Mankirat's Site</a>
+<a href="http://192.99.43.182/home.html">Christian's Site</a>
