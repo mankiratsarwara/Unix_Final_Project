@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Kendrick Lamar"
 hyperlink: /Kendrick-Lamar/
 ---

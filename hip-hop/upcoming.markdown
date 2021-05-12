@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Upcoming Hip-Hop Releases (May 2021)
 permalink: /upcoming/
 ---
