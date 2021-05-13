@@ -1,0 +1,6 @@
+[Unit]
+Description=Pulls from Git if there are new changes
+[Timer]
+OnUnitActiveSec=300s
+[Install]
+WantedBy=timers.target
